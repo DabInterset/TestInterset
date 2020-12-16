@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    background: #e9ebee;
+    color: #1d2129;
+  }
+  
+  .Navbar {
+    color: #ffffff;
+    padding: 10px;
+    background: #4167b2;
+  }
+  .input1 {
+    text-align: center;
+  }

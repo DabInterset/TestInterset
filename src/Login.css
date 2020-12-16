@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+  background: #e9ebee;
+  color: #1d2129;
+}
+  .Navbar {
+    margin-top: 0%;
+    color: #ffffff;
+    padding: 10px;
+    background: #4167b2;
+  }
+
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 0px;
+      
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+      margin-bottom: 50%;
+    }
+  }
